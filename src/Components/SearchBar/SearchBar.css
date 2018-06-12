@@ -1,0 +1,21 @@
+.Input{
+	padding: 10px;
+	width: 600px;
+	box-shadow: 0 2px 3px grey;
+	border: 1px solid grey;
+	font-family: "Courier New";
+}
+
+.Button{
+	padding: 10px;
+	width: 200px;
+	background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+	border: 1px solid grey;
+	box-shadow: 0 2px 3px grey;
+	font-family: "Courier New";
+}
+
+.Button:hover{
+	background: linear-gradient(0deg, #00C9FF 0%, #92FE9D 100%);
+	cursor: pointer;
+}

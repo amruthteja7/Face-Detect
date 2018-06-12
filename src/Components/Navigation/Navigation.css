@@ -1,0 +1,31 @@
+.Navigation{
+	display: flex;
+	justify-content: flex-start;
+}
+
+.Signout{
+	padding: 20px;
+	color: black;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.Signout:hover{
+	color: grey;
+	cursor: pointer;
+}
+
+.Icon{
+	border: 3px solid black;
+	margin: 5px;
+	padding: 5px;
+	box-shadow: 0 2px 3px grey;
+}
+
+.Image{
+	display: block;
+}
+
+.Caption{
+	font-weight: bold;
+}
